@@ -1,0 +1,27 @@
+.cart{
+    height:62vh;
+}
+
+.imgHeight{
+    height:7rem;
+}
+.quantity{
+    color:crimson;
+    font-weight:bold;
+}
+.totalItem{
+    color:#000;
+}
+@media (max-width: 500px){
+    .tableRow{
+        display: flex;
+        flex-direction:column;
+        box-shadow: 0 5px 10px #333;
+        margin:1.5rem 10px;
+    }
+
+    .img{
+        width: 100%;
+        height: auto;
+    }
+}

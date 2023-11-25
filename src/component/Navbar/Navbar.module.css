@@ -1,0 +1,20 @@
+
+.nav{
+
+}
+
+.nav ul li .link{
+    padding-top:1.2rem;
+    padding-bottom:1.2rem;
+    color:#fff;
+    font-size:20px;
+}
+.nav ul li .link:hover{
+    color:crimson;
+    transition: 0.2s ease;
+}
+
+.button{
+    color:#fff;
+    background-color:#fff;
+}
